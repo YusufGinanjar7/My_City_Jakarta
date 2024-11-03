@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">My City Jakarta</string>
+    <string name="coffee_shop">Kafe</string>
+    <string name="parks">Taman</string>
+    <string name="restaurant">Restoran</string>
+    <string name="theatre">Bioskop</string>
+    <string name="mall">Pusat Perbelanjaan</string>
+    <string name="historical_buildings">Bangunan Sejarah</string>
+
+    <!-- Nama Kafe dan Deskripsinya -->
+    <string name="coffee1">Starbucks</string>
+    <string name="starbucks_description">Starbucks adalah kafe terkenal yang menawarkan kopi berkualitas tinggi. Berawal dari Pike Place Market di Seattle, Starbucks kini menjadi ikon global dengan suasana yang santai, fokus pada komunitas, dan kopi yang lezat.</string>
+
+    <string name="coffee_bean">Coffee Bean And Tea Leaf</string>
+    <string name="coffee_bean_description">Coffee Bean And Tea Leaf menyediakan kopi dan teh berkualitas tinggi yang diambil dari kebun terbaik di dunia. Dengan suasana nyaman, ini adalah tempat yang sempurna untuk menikmati kopi atau teh gourmet bersama teman atau sendiri.</string>
+
+    <string name="love_coffee">Love Café</string>
+    <string name="love_coffee_description">Love Café adalah kafe bertema romantis yang menyuguhkan suasana hangat dan nyaman. Dengan latte berbentuk hati, dekorasi romantis, dan musik yang menenangkan, tempat ini sempurna untuk bersantai atau berbincang dengan teman dekat.</string>
+
+    <string name="coffee_house">Kedai Kopi</string>
+    <string name="coffee_house_description">Kedai Kopi menawarkan berbagai macam kopi yang dibuat dengan biji pilihan. Suasana hangat dan ramah membuat tempat ini ideal untuk bersantai, bertemu teman, atau menyelesaikan pekerjaan.</string>
+
+    <string name="spell_coffee">Enchanted Brews</string>
+    <string name="spell_coffee_description">Enchanted Brews memberikan sentuhan ajaib pada setiap cangkir kopi. Dengan latte bertema mistik dan dekorasi yang terinspirasi dari dunia sihir, tempat ini adalah tempat yang memikat untuk menikmati pengalaman kopi yang unik dan melarikan diri sejenak dari keseharian.</string>
+
+    <string name="steamy_cup">Steamy Cup Café</string>
+    <string name="steamy_cup_description">Steamy Cup Café adalah tempat yang sempurna untuk pecinta kopi. Dengan pencahayaan hangat dan suasana nyaman, tempat ini ideal untuk menikmati kopi yang diseduh dengan segar, ditemani camilan lezat, membuat Anda merasa di rumah.</string>
+
+    <!-- Taman -->
+    <string name="monas_park">Monumen Nasional (Monas)</string>
+    <string name="monas_park_description">Monumen Nasional, atau Monas, adalah ikon Jakarta yang mencerminkan perjuangan rakyat Indonesia untuk meraih kemerdekaan. Monumen setinggi 132 meter ini memiliki pemandangan kota yang indah dari atasnya dan taman yang luas untuk bersantai di sekitarnya.</string>
+
+    <string name="taman_suropati">Taman Suropati</string>
+    <string name="taman_suropati_description">Taman Suropati adalah taman kota yang tenang dan hijau di pusat Jakarta. Tempat ini cocok untuk bersantai, berolahraga, atau sekadar menikmati suasana kota yang asri, dengan banyak pohon rindang dan karya seni publik.</string>
+
+    <!-- Restoran -->
+    <string name="batavia_cafe">Kafe Batavia</string>
+    <string name="batavia_cafe_description">Kafe Batavia terletak di Kota Tua Jakarta dan menyuguhkan suasana kolonial Belanda yang klasik. Dengan interior bergaya vintage, kafe ini menawarkan berbagai hidangan lokal dan internasional yang lezat.</string>
+
+    <string name="angkasa_restaurant">Restoran Angkasa</string>
+    <string name="angkasa_restaurant_description">Restoran Angkasa adalah tempat makan mewah di pusat Jakarta yang menawarkan pemandangan kota yang memukau. Menyajikan masakan Indonesia modern dan internasional, restoran ini cocok untuk acara spesial.</string>
+
+    <!-- Pusat Perbelanjaan -->
+    <string name="grand_indonesia">Grand Indonesia</string>
+    <string name="grand_indonesia_description">Grand Indonesia adalah pusat perbelanjaan terbesar di Jakarta, menawarkan berbagai merek internasional, restoran, dan hiburan. Tempat ini adalah tujuan belanja populer bagi warga Jakarta dan turis.</string>
+
+    <string name="plaza_senayan">Plaza Senayan</string>
+    <string name="plaza_senayan_description">Plaza Senayan adalah pusat perbelanjaan bergengsi yang terkenal dengan toko-toko mewah, restoran eksklusif, dan suasana elegan. Terletak di pusat bisnis Jakarta, tempat ini menjadi pilihan utama untuk pengalaman belanja yang berkualitas.</string>
+
+    <!-- Bangunan Sejarah -->
+    <string name="kota_tua">Kota Tua Jakarta</string>
+    <string name="kota_tua_description">Kota Tua Jakarta adalah kawasan bersejarah yang penuh dengan bangunan peninggalan kolonial Belanda. Tempat ini terkenal sebagai tujuan wisata untuk mengenal sejarah Jakarta dengan berbagai museum, kafe, dan galeri seni yang berjejer di sekitar lapangan Fatahillah.</string>
+
+    <string name="museum_nasional">Museum Nasional</string>
+    <string name="museum_nasional_description">Museum Nasional Indonesia, atau Museum Gajah, menampilkan koleksi artefak sejarah, arkeologi, dan seni budaya Indonesia. Tempat ini merupakan destinasi utama untuk mempelajari sejarah dan kebudayaan bangsa Indonesia.</string>
+
+    <!-- String Lainnya -->
+    <string name="category">Kategori</string>
+    <string name="about">Tentang</string>
+    <string name="back_button">Kembali</string>
+</resources>
